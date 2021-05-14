@@ -1,3 +1,3 @@
 # face-detectionApp
 
-OpenCv kütüphanesi kullanılarak yüz tanıma uyugulaması kodları ipynm dosyası içerisinde ve jupyter lab da geliştirilmiştir.
+OpenCv kütüphanesi kullanılarak yüz tanıma uygulaması kodları jupyter lab da geliştirilmiştir.
